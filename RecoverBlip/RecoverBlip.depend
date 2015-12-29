@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1441474920 source:/home/vincent/Desktop/RecoverBlip/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<ctime>
+	<cmath>
+

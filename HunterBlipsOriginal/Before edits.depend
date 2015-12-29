@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1447820142 source:/home/vincent/Desktop/HunterBlipsOriginal/Before edits/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<ctime>
+	<cmath>
+
+1447821741 source:/home/vincent/Desktop/HunterBlipsOriginal/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<ctime>
+	<cmath>
+
